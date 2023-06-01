@@ -12,7 +12,7 @@
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_offchip_LP_EM_CC2340R5_freertos_ticlang-v1.0.0.bin",
+    "fileName" : "basic_ble_oad_offchip_LP_EM_CC2340R5_freertos_ticlang-v1.0.0.bin",
     "version" : "7.10.00.23_1.0.0+0",
     "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
